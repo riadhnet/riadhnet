@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Riadh</h1>
 <h3 align="center">A passionate Senior Android developer with more than 8 years of experience</h3>
 
-- 📄 My Cv [HERE](https://github.com/riadhnet/riadhnet/blob/main/CV_Riadh_mezzi_2023_projects.pdf)
+- 📄 My one page Cv [HERE](https://github.com/riadhnet/riadhnet/blob/main/cv_riadh_2023.pdf)
 
-- 👨‍💻 My detailed CV is Here [HERE](https://github.com/riadhnet/riadhnet/blob/main/CV_Riadh_mezzi_2023_projects.pdf)
+- 👨‍💻 My detailed CV with projects is Here [HERE](https://github.com/riadhnet/riadhnet/blob/main/CV_Riadh_mezzi_2023_projects.pdf)
 
 - 📫 How to reach me **riadh.mezzi@gmail.com**
 
