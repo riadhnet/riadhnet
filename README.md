@@ -31,7 +31,7 @@
 
 Here are some individuals who can provide references upon request:
 
-- Paulo Morandi: Mobiltec  📫 psmorandi@gmail.com  💻 https://github.com/psmorandi
+- Paulo Morandi: Mobiltec  📫 paulomorandi@mobiltec.com.br 💻 https://github.com/psmorandi
 - Julien Herrero: Netatmo  📫 julienherrero@tabesto.com   💻 https://github.com/julien-herrero-tab
 - Erwan Pinault: 📫 erwan.pinault@netatmo.com    💻 https://github.com/erwan-pinault
 
