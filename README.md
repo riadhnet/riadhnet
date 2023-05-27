@@ -25,7 +25,10 @@
 - Tabesto kiosk [website link](https://www.tabesto.com/borne-de-commande-restaurant/)
 - Home+Control: [Google play link](https://play.google.com/store/apps/details?id=com.legrand.homecontrol)
 - Netatmo Weather [Google play link](https://play.google.com/store/apps/details?id=com.netatmo.netatmo)
-- PeperSDK [website Link](https://qisdk.softbankrobotics.com/)
+- PepperSDK [website Link](https://qisdk.softbankrobotics.com/)
+- Fruit blocks game [Google play link](https://play.google.com/store/apps/details?id=com.rminfo.fruitblocks)
+- Letter trace game [Google play link](https://play.google.com/store/apps/details?id=com.rminfo.lettertrace)
+- Need for drift 3D game [Google play link](https://play.google.com/store/apps/details?id=com.minfo.nfd2)
 
 #### <h3 align="left">⚡ References</h3>
 
