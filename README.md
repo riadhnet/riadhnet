@@ -32,11 +32,11 @@
 Here are some individuals who can provide references upon request:
 
 - Paulo Morandi: Mobiltec  📫 paulomorandi@mobiltec.com.br 💻 https://github.com/psmorandi
-- Julien Herrero: Netatmo  📫 julienherrero@tabesto.com   💻 https://github.com/julien-herrero-tab
-- Erwan Pinault: 📫 erwan.pinault@netatmo.com    💻 https://github.com/erwan-pinault
+- Julien Herrero: Tabesto  📫 julienherrero@tabesto.com   💻 https://github.com/julien-herrero-tab
+- Erwan Pinault: Netatmo 📫 erwan.pinault@netatmo.com    💻 https://github.com/erwan-pinault
 
 ####  <h3 align="left">🌱 I'm currently learning </h3>
 
-- jetpack compose
+- jetpack Compose
 - Automated Tests
 - Spanish
